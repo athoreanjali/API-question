@@ -1,0 +1,49 @@
+.box {
+
+    width: auto;
+    display: flex;
+    margin: 5px;
+    /* background-color:; */
+
+
+}
+
+.box p {
+    text-align: center;
+}
+
+.one {
+    /* background-color:lightcoral; */
+    list-style-type: none;
+    padding: 5px;
+    color: blue;
+
+}
+
+.two {
+    /* background-color: mediumaquamarine; */
+    list-style-type: none;
+    padding: 5px;
+    color: red;
+    
+
+}
+
+.three {
+    /* background-color: orchid; */
+    list-style-type: none;
+    padding: 5px;
+    color: brown;
+
+}
+
+.four {
+    /* background-color: darkcyan; */
+    list-style-type: none;
+    padding: 5px;
+
+}
+
+/* input {
+    background-color:sandybrown;
+} */

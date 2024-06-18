@@ -1,0 +1,12 @@
+.box {
+    border: 1px solid black;
+    width: auto;
+    display: inline-block;
+    margin: 5px;
+
+
+}
+
+.box p {
+    text-align: center;
+}
